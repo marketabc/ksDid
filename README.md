@@ -7,5 +7,7 @@
 * 小店商品列表
 * 付费专区商品列表
 
+所有接口不需要进行账号登录。
+
 交流Telegram
 https://t.me/marketabc
