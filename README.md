@@ -1,3 +1,5 @@
+因原账号遗失了二次验证，故创建新的账号以继续更新项目https://github.com/redeveloping/ksDid
+
 # ksDid
 快手DID注册和Sig3算法
 
